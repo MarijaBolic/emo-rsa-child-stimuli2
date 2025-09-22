@@ -1,2 +1,2 @@
 # -emo-rsa-child-stimuli2
-To host my atimuli for the emo-rsa study
+To host stimuli for the emo-rsa study
